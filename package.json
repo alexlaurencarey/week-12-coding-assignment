@@ -1,0 +1,23 @@
+{
+  "name": "app-project",
+  "version": "1.0.0",
+  "description": "App Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlaurencarey/week-12-coding-assignment.git"
+  },
+  "keywords": [
+    "coding",
+    "assignment"
+  ],
+  "author": "alexandra carey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexlaurencarey/week-12-coding-assignment/issues"
+  },
+  "homepage": "https://github.com/alexlaurencarey/week-12-coding-assignment#readme"
+}
